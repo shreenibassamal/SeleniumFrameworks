@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="25.923">
+    <properties></properties>
+
+
+
+            <testcase
+                name="homepageTest"
+                time="25.923"
+                classname="testNG.assert_verificationTest.A1_HomePageVerificationWithIfElseBlockTest">
+            </testcase>
+</testsuite>

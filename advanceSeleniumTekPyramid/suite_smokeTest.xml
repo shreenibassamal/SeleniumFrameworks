@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<groups>
+<run>
+<include name="smoke Testing"></include>
+</run>
+
+</groups>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testNG.Execution.pack2.B1Test"/>
+      <class name="testNG.Execution.pack4.D1Test"/>
+      <class name="testNG.Execution.pack1.A1Test"/>
+      <class name="testNG.Execution.pack3.C1Test"/>
+      <class name="testNG.Execution.pack5.E1Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

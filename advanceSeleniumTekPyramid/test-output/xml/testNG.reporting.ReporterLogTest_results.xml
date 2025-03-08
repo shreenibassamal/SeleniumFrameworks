@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.041">
+    <properties></properties>
+
+
+
+            <testcase
+                name="reporting1Test"
+                time="0.037"
+                classname="testNG.reporting.ReporterLogTest">
+            </testcase>
+            <testcase
+                name="reporting2Test"
+                time="0.004"
+                classname="testNG.reporting.ReporterLogTest">
+            </testcase>
+</testsuite>
